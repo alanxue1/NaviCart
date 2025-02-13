@@ -34,13 +34,6 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ],
-      [
-        "@react-native-voice/voice",
-        {
-          "microphonePermission": "Allow Voice Navigator to access the microphone",
-          "speechRecognitionPermission": "Allow Voice Navigator to access speech recognition"
-        }
       ]
     ],
     "experiments": {
