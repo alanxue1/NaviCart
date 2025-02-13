@@ -66,9 +66,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 🙏 Acknowledgments
 
-- Big thanks to Mappedin for the API subscription
-- Kimberly our amazing client
-- inspirations
+- Big thanks to Kimberly Luu at Mappedin for the API subscription
+- Another huge thanks to Kimberly our amazing client
+- Other inspirations
 
 ## 📞 Contact
 
