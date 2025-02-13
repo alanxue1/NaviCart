@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+# NaviCart
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+NaviCart is a smart shopping navigation app that helps simplify your grocery shopping experience. Built with React Native and Expo, it provides an intuitive interface for creating and managing shopping lists.
 
-## Get started
+## 🌟 Features
 
-1. Install dependencies
+- User-friendly interface with a modern design
+- Create and manage grocery lists
+- Smart navigation capabilities
+- Responsive and intuitive UI
+- Cross-platform compatibility (iOS & Android)
 
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+- Expo CLI
+- iOS Simulator (for Mac) or Android Studio (for Android development)
+
+### Installation
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/alanxue1/NaviCart.git
+   ```
+
+2. Install dependencies
    ```bash
    npm install
    ```
 
-2. Start the app
-
+3. Start the development server
    ```bash
-    npx expo start
+   npx expo start
    ```
 
-In the output, you'll find options to open the app in a
+## 🛠️ Built With
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- [React Native](https://reactnative.dev/) - The mobile framework used
+- [Expo](https://expo.dev/) - Development platform
+- [Expo Router](https://expo.github.io/router/docs/) - Navigation solution
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 📱 Screenshots
 
-## Get a fresh project
+[Add later]
 
-When you're ready, run:
+## 🤝 Contributing
 
-```bash
-npm run reset-project
-```
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+1. Fork the project
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
-## Learn more
+## 📝 License
 
-To learn more about developing your project with Expo, look at the following resources:
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+## 🙏 Acknowledgments
 
-## Join the community
+- Big thanks to Mappedin for the API subscription
+- Inspiration
+- etc
 
-Join our community of developers creating universal apps.
+## 📞 Contact
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Your Name - [@alanxue_](https://x.com/alanxue_) - xuealan101@gmail.com
+
+Project Link: [https://github.com/alanxue1/NaviCart](https://github.com/alanxue1/NaviCart)

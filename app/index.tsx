@@ -16,7 +16,7 @@ export default function Home() {
         >
           <View style={styles.content}>
             <View style={styles.textContainer}>
-              <Text style={styles.title}>Welcome to{'\n'}Indoor Navigation</Text>
+              <Text style={styles.title}>Welcome to{'\n'}NaviCart</Text>
               <Text style={styles.subtitle}>
                 Simplify your shopping experience with smart navigation
               </Text>
