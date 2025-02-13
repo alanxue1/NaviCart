@@ -1,6 +1,6 @@
 # NaviCart
 
-NaviCart is a smart shopping navigation app that helps simplify your grocery shopping experience. Built with React Native and Expo, it provides an intuitive interface for creating and managing shopping lists.
+NaviCart is an accessible shopping navigation app designed to assist visually impaired users through audible signals and guidance. Built with React Native and Expo, it provides an intuitive interface and voice feedback to help users navigate grocery stores and manage their shopping lists effectively.
 
 ## 🌟 Features
 
@@ -44,7 +44,11 @@ NaviCart is a smart shopping navigation app that helps simplify your grocery sho
 
 ## 📱 Screenshots
 
-[Add later]
+<div align="center">
+  <img src="screenshots/img_1.jpg" alt="NaviCart Screenshot 1" width="300"/>
+  <img src="screenshots/img_2.jpg" alt="NaviCart Screenshot 2" width="300"/>
+  <p><em>Screenshots from early development stage</em></p>
+</div>
 
 ## 🤝 Contributing
 
@@ -63,11 +67,11 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🙏 Acknowledgments
 
 - Big thanks to Mappedin for the API subscription
-- Inspiration
-- etc
+- Kimberly our amazing client
+- inspirations
 
 ## 📞 Contact
 
-Your Name - [@alanxue_](https://x.com/alanxue_) - xuealan101@gmail.com
+Alan Xue - [@alanxue_](https://x.com/alanxue_) - xuealan101@gmail.com
 
 Project Link: [https://github.com/alanxue1/NaviCart](https://github.com/alanxue1/NaviCart)
